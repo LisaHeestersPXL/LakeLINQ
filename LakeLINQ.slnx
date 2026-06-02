@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="LakeLINQ.Domain/LakeLINQ.Domain.csproj" />
+  <Project Path="LakeLINQ.Infrastructure/LakeLINQ.Infrastructure.csproj" />
+  <Project Path="LakeLINQ/LakeLINQ.csproj" />
+</Solution>
